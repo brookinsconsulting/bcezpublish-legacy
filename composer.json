@@ -1,7 +1,7 @@
 {
     "name":        "brookinsconsulting/bcezpublish-legacy",
-    "description": "eZ Publish LegacyStack (4.x)",
-    "homepage":    "http://share.ez.no",
+    "description": "eZ Publish Legacy Stack (4.x), fork maintained by Brookins Consulting",
+    "homepage":    "https://github.com/brookinsconsulting/bcezpublish-legacy",
     "license":     "GPL-2.0-only",
     "type":        "ezpublish-legacy",
     "suggest": {
